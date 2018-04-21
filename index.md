@@ -1,4 +1,4 @@
-## Welcome Awesome Coders
+# Welcome Awesome Coders
 ![Image](https://raw.githubusercontent.com/Aryankit/blackbrick/master/assets/images/final.png)
 
 - Currently I am working on HTML5 series, trying to finish it as soon as possible.
