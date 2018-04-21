@@ -14,10 +14,10 @@ Your subscription and support encourages us to keep making tutorial videos.
 
 
 # Additional info
--Visit Youtube here       : [Create Code](https://www.youtube.com/channel/UCZbQysCZUd8R9xNGzHg_ZHA).
--Check out Instagram here : [@createawesomecode](https://www.instagram.com/createawesomecode/).
--Visit Facebook page      : [@creatingcoding](https://www.facebook.com/creatingcoding).
--Twitterati               : [@creatingcoding](https://twitter.com/creatingcoding).
+- Youtube   : [Create Code](https://www.youtube.com/channel/UCZbQysCZUd8R9xNGzHg_ZHA).
+- Instagram : [@createawesomecode](https://www.instagram.com/createawesomecode/).
+- Facebook  : [@creatingcoding](https://www.facebook.com/creatingcoding).
+- Twitterati: [@creatingcoding](https://twitter.com/creatingcoding).
 
 
 
