@@ -10,8 +10,6 @@
 
 Your subscription and support encourages us to keep making tutorial videos.
 
-```markdown
-
 
 # Additional info
 - Youtube   : [Create Code](https://www.youtube.com/channel/UCZbQysCZUd8R9xNGzHg_ZHA).
@@ -19,9 +17,6 @@ Your subscription and support encourages us to keep making tutorial videos.
 - Facebook  : [@creatingcoding](https://www.facebook.com/creatingcoding).
 - Twitterati: [@creatingcoding](https://twitter.com/creatingcoding).
 
-
-
-```
 
 ### Support or Contact
 
