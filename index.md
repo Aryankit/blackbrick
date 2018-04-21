@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Hello, Welcome Awesome Coders
+![Image](https://raw.githubusercontent.com/Aryankit/blackbrick/master/assets/images/final.png)
 
-You can use the [editor on GitHub](https://github.com/Aryankit/blackbrick/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Visit Youtube here       : [Create Code](https://www.youtube.com/channel/UCZbQysCZUd8R9xNGzHg_ZHA).
+Check out Instagram here : [Create Code](https://www.instagram.com/createawesomecode/).
+Visit Facebook page      : [Create Code](https://www.facebook.com/creatingcoding).
+Twitterati               : [Create Code](https://twitter.com/creatingcoding).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Highlights
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Your subscription and support encourages us to keep making tutorial videos.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Additional info
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+- Currently I am working on _HTML5_ series, trying to finish it as soon as possible.
+- After HTML5, I'll be releasing _CSS_ series.
+- And then finally _Javascript_, and _Bootstrap_.
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aryankit/blackbrick/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can DM me on [Instagram](https://help.github.com/categories/github-pages-basics/) or Email me : createawesomecode[@]gmail[dot]com.
+
+`console.log("always createawesomecode")`
